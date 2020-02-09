@@ -93,7 +93,7 @@
 title: Chuxian MO
 description: | # 不知道怎么写介绍，放个音乐吧
   <iframe
-    src="//music.163.com/outchain/player?type=0&id=189895&auto=0&height=32"
+    src="//music.163.com/outchain/player?type=2&id=189895&auto=0&height=32"
     width=100%
     height=52
     frameborder="no"
@@ -236,33 +236,33 @@ page:
       enable: true
       img: //gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?s=300 # 头像的地址
       info: | # 头像背后的信息，<br/>代表换行
-        <br/>SYSU17级在读
-        <br/>计科超算方向
-        <br/>永远喜欢水野爱
-        <br/>田宫例四驱车
-        <br/>ASC
+        <br/>SCUT15级
+        <br/>计科
+        <br/>永远热爱利物浦
+        <br/>Leslie Chueng
+        <br/>Y.N.W.A
     social:
       - title: rss
         href: /assets/jekyll-sitemaps/atom.xml
         class: "fas fa-rss"
-      - title: wu.kan@foxmail.com # email
-        href: mailto:wu.kan@foxmail.com
+      - title: kafca@qq.com # email
+        href: mailto:kafca@qq.com
         class: "fas fa-envelope"
       - title: github
-        href: //github.com/wu-kan
+        href: //github.com/chuxianmo
         class: "fab fa-github"
-      - title: WuK # codeforces
-        href: //codeforces.com/profile/WuK
-        class: "fas fa-chart-bar fw"
-      - title: WuK # vjudge
-        href: //vjudge.net/user/WuK
-        class: "fas fa-smile"
-      - title: 942759535 # qq
+#      - title: WuK # codeforces
+#        href: //codeforces.com/profile/WuK
+#        class: "fas fa-chart-bar fw"
+#      - title: WuK # vjudge
+#        href: //vjudge.net/user/WuK
+#        class: "fas fa-smile"
+      - title: 951268027 # qq
         class: "fab fa-qq"
-      - title: Wu-_-Kan # weixin
+      - title: 13427519646 # weixin
         class: "fab fa-weixin"
       - title: zhihu
-        href: //www.zhihu.com/people/wu.kan/activities
+        href: https://www.zhihu.com/people/mo-chu-xian-40
         class: "fab fa-zhihu"
     nav:
       - title: '<i class="fas fa-home fa-fw"></i> 首页'
@@ -275,8 +275,8 @@ page:
         href: /tags/
       - title: '<i class="fas fa-archive fa-fw"></i> 归档'
         href: /archive/
-      - title: '<i class="fas fa-coffee fa-fw"></i> 打赏'
-        href: /merger/
+#      - title: '<i class="fas fa-coffee fa-fw"></i> 打赏'
+#        href: /merger/
     simple_jekyll_search:
       enable: true
       placeholder: 搜索博文
