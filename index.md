@@ -1,55 +1,39 @@
 ---
 layout: index
-title: 星合の空
+title: 明镜台
 ---
 
 ## Contact
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
+- Address: **South China University of Technology. - Guangzhou, China**
+- Phone: **+86 13427519646**
 - E-mail:
-  - **wu.kan@foxmail.com**
-  - **wukan3@mail2.sysu.edu.cn**
-  - **im.wu.kan@gmail.com**
-- WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
-- Site: **<https://wu-kan.cn>**
+  - **kafca@qq.com**
+  - **chuxianmo@gmai.com**
+  - **201530541883@mail.scut.edu.cn**
+- WeChat: **13427519646**
+- QQ: **951268027**
+- Site: **<https://chuxianmo.github.io>**
 
 ## Education
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 2017 - Jul. 2021(expected)
+School of Computer Science and Engineering, South China University of Technology, Guangzhou, Sept. 2015 - Jul. 2019
 
-- Bachelor of Computer Science (Supercomputer Class)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
+- Bachelor of Computer Science and Technology
 
 ## Honor
 
-- **Top 0.05% in 11395**, [The 18th CCF Certified Software Professional](https://wu-kan.cn/_posts/2019-12-16-%E7%AC%AC%E5%8D%81%E5%85%AB%E6%AC%A1CCF%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E8%83%BD%E5%8A%9B%E8%AE%A4%E8%AF%81/), Dec. 2019
-- **Silver Medal**, [ICPC Asia Regional Contest Xuzhou Site](https://wu-kan.cn/_posts/2019-11-04-%E5%86%8D%E8%A7%81-%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/), Nov. 2019
-- **Second Scholarship**, Oct. 2019
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2019
-- **Third Scholarship**, Oct. 2018
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018
+- **First Prize**, SCUT Wechat Mini-Program Programming Contest, May 2018
 
 ## Project
 
-TBD
+So-Link Academic Assistant
 
 ## Skill
 
 - **C/C++**, Familiar
-  - **OpenMP**, Familiar
-  - **MPI**, Familiar&Learning
-  - **CUDA**, Learning
 - **Python**, Familiar
+- **Java**, Familiar
 - **Markdown**, Familiar
-- **LaTex**, Familiar
 - **Linux**, Familiar&Learning
 - **Git**, Familiar
-- **VSCode**, Familiar
-
-## Leadership
-
-TBD
