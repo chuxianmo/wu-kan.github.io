@@ -137,7 +137,7 @@ index:
       - 博客搭建
     tags:
       - 人生经验
-      - ICPC模板
+      - 技术
       - 水野爱
 
 page404:
@@ -303,7 +303,7 @@ page:
       alert: <i class="fas fa-edit fa-fw"></i>
     run_time:
       enable: true
-      start_time: "10/04/2017 11:03:56" # 这是我第一篇CSDN博客的时间
+      start_time: "2/9/2020 12:00:50" # 这是我第一篇CSDN博客的时间
       alert: <i class="fas fa-cog fa-spin fa-fw"></i>
       day: 天
       hour: 时
@@ -485,8 +485,8 @@ page:
       onload='
         new Valine({
           "el": ".v",
-          "appId": "9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz",
-          "appKey": "NJ7RwmgrxsF7KDzlqU7YewlL",
+          "appId": "mzvYgKjOkJzsemjN2UdCtGNz-gzGzoHsz",
+          "appKey": "czfkWFE5vvqXtGO8IIUl7xp9",
           "notify": "true",
           "verify": "true",
           "avatar": "identicon",
