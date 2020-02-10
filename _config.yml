@@ -90,7 +90,7 @@
 #}
 
 # 以下四个配置项为空时jekyll-github-metadata会帮你生成
-title: Chuxian MO
+title: Chuxian Mo
 description: | # 不知道怎么写介绍，放个音乐吧
   <iframe
     src="//music.163.com/outchain/player?type=2&id=189895&auto=0&height=32"
@@ -134,11 +134,10 @@ index:
         href: /archive
         alert: posts in total ...
     categories:
-      - 博客搭建
-    tags:
-      - 人生经验
-      - 技术
-      - 水野爱
+      - 编程语言
+#    tags:
+#      - C++
+#      - Java
 
 page404:
   head: | # 腾讯公益
@@ -264,8 +263,8 @@ page:
     nav:
       - title: '<i class="fas fa-home fa-fw"></i> 首页'
         href: /
-      - title: '<i class="fab fa-readme fa-fw"></i> 关于'
-        href: /about/
+#      - title: '<i class="fab fa-readme fa-fw"></i> 关于'
+#        href: /about/
       - title: '<i class="fas fa-comments fa-fw"></i> 留言'
         href: /comments/
       - title: '<i class="fas fa-tags fa-fw"></i> 标签'
@@ -308,12 +307,12 @@ page:
       second: 秒
     copyright:
       enable: true
-      text: |
-        <a
-          class="github-button"
-          aria-label="Star wu-kan/wu-kan.github.io on GitHub"
-          href="https://github.com/wu-kan/wu-kan.github.io" data-icon="octicon-star" data-show-count="true"
-        >Star</a>
+#      text: |
+#        <a
+#          class="github-button"
+#          aria-label="Star wu-kan/wu-kan.github.io on GitHub"
+#          href="https://github.com/wu-kan/wu-kan.github.io" data-icon="octicon-star" data-show-count="true"
+#        >Star</a>
   head: |
     <base
       target="_blank"
