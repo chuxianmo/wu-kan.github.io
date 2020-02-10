@@ -312,8 +312,8 @@ page:
           class="github-button"
           aria-label="Star wu-kan/wu-kan.github.io on GitHub"
           href="https://github.com/wu-kan/wu-kan.github.io" data-icon="octicon-star" data-show-count="true"
-        >Star</a>
-        感谢wu-kan的博客模版
+        >感谢wu-kan的模板</a>
+
   head: |
     <base
       target="_blank"
