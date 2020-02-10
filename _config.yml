@@ -175,7 +175,7 @@ merger: # 支持的变量见https://merger.justhx.com/cn/docs/configure
       var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ77zFwQMY-6u57gU%3D_xxx_sign&u=942759535&n=%E8%94%9A";
       var alipay = "https://qr.alipay.com/fkx02750b5kbplxvudqrx16";
       var myname = "Chuxian Mo";
-      var profile = "//gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?s=300";
+      var profile = "http://ww1.sinaimg.cn/large/006bShEGgy1gbrfr3fbvwj30f90duwes.jpg";
       var multilingual = true;
       var myname_hans = "莫楚先";
       var myname_hant = "莫楚先";
@@ -230,7 +230,7 @@ page:
   sidebar:
     avatar: # 侧边栏显示的头像
       enable: true
-      img: //gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?s=300 # 头像的地址
+      img: //ww1.sinaimg.cn/large/006bShEGgy1gbrfr3fbvwj30f90duwes.jpg # 头像的地址
       info: | # 头像背后的信息，<br/>代表换行
         <br/>SCUT15级
         <br/>计科
@@ -312,8 +312,8 @@ page:
           class="github-button"
           aria-label="Star wu-kan/wu-kan.github.io on GitHub"
           href="https://github.com/wu-kan/wu-kan.github.io" data-icon="octicon-star" data-show-count="true"
-        >感谢wu-kan的模板</a>
-
+        >Star</a>
+        感谢wu-kan的模板
   head: |
     <base
       target="_blank"
@@ -362,12 +362,12 @@ page:
     />
     <link
       rel="apple-touch-icon-precomposed"
-      href="//gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?s=300"
+      href="http://ww1.sinaimg.cn/large/006bShEGgy1gbrfr3fbvwj30f90duwes.jpg"
     />
     <link
       rel="shortcut
       icon"
-      href="//gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?s=32"
+      href="http://ww1.sinaimg.cn/large/006bShEGgy1gbrfr3fbvwj30f90duwes.jpg"
     />
     <link
       rel="stylesheet"
